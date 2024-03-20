@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hashir Yameen</h1>
 <h3 align="center">Ex Tech Teaching Assistant at Coding Ninjas | MERN Stack & Next.js Developer🚀 | Problem-Solving (DSA) | UI Design | UX Design | Full Stack Developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hashiry&label=Profile%20views&color=0e75b6&style=flat" alt="hashiry" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hashiry" alt="hashiry" /></a> </p>
+
 - 🔭 I’m currently working on [Minimal UI Library](https://github.com/HashirY/CompxUI)
 
 - 🌱 I’m currently learning **Next.js , Orms , Docker**
@@ -25,3 +29,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hashiry&show_icons=true&locale=en&layout=compact" alt="hashiry" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hashiry&show_icons=true&locale=en" alt="hashiry" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hashiry&" alt="hashiry" /></p>
